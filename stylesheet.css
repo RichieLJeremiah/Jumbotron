@@ -1,3 +1,29 @@
 .jumbotron{
     background-image: url('./image/image_for_jumbotron.jpg');
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-family:cursive;
+    color:turquoise;
+    background-color:black;
+}
+.header-1{
+    font-family: cursive;
+    color: yellowgreen;
+}
+body{
+    background-color: black;
+}
+head{
+    background-color: black;
+}
+
+.col-lg-6{
+    color:yellow;
+    font-size: large; 
+    font-family: cursive;
+}
+.col-lg-6-2{
+    color:palevioletred;
+    font-size: large;
+    font-family:cursive ;
 }
