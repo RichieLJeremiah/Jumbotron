@@ -27,3 +27,25 @@ head{
     font-size: large;
     font-family:cursive ;
 }
+
+table{
+    size: 100px;
+    color:cyan;
+    border: 1px;
+    border-color: rgb(255, 0, 0);
+    width: 100%;
+}
+tr{
+    font-size: larger;
+}
+.col-lg-6-3{
+    background-image: url('./image/jumbopick2.jpg');
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+.col-lg-6-4{
+    background-image: url('./image/jumbopick3.jpg') ;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
