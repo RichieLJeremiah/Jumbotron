@@ -17,12 +17,12 @@ head{
     background-color: black;
 }
 
-.col-lg-6{
+.col-1{
     color:yellow;
     font-size: large; 
     font-family: cursive;
 }
-.col-lg-6-2{
+.col-2{
     color:palevioletred;
     font-size: large;
     font-family:cursive ;
@@ -38,12 +38,12 @@ table{
 tr{
     font-size: larger;
 }
-.col-lg-6-3{
+.col-3{
     background-image: url('./image/jumbopick2.jpg');
     padding-top: 30%;
     padding-bottom: 30%;
 }
-.col-lg-6-4{
+.col-4{
     background-image: url('./image/jumbopick3.jpg') ;
     padding-top: 30%;
     padding-bottom: 30%;
