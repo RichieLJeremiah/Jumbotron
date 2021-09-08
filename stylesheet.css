@@ -48,4 +48,15 @@ tr{
     padding-top: 30%;
     padding-bottom: 30%;
 }
+.carousel-caption{
+    color:rgb(255, 255, 255);
 
+}
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+}
+  .carousel .item {
+    height: 900px;
+    background-color: rgb(5, 69, 121);
+}
